@@ -1,0 +1,55 @@
+cascadef4
+stage 24
+W/H    24 24
+p 919
+n 441
+%80
+
+
+cascadef5
+stage 27
+W/H    24 24
+p 919
+n 470
+%82
+
+
+
+cascadef6
+stage 29
+W/H    24 24
+p 919
+n 500
+%83
+Training until now has taken 0 days 0 hours 35 minutes 21 seconds
+Hand problem partially solved,
+Efficieny is decreased.
+Go back to the old parameter.
+
+
+cascadef8 failure
+stage 27
+W/H    24 24
+p 919
+n 500
+%82
+Training until now has taken 0 days 0 hours 33 minutes 53 seconds
+Didn't change any thing
+Increase percentage and try again
+
+
+cascadef8 again
+stage 27
+W/H    24 24
+p 919
+n 500
+%80
+
+
+
+
+
+
+
+
+
